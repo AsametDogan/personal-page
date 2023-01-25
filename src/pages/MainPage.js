@@ -21,9 +21,9 @@ function MainPage() {
     //<img className='max-h-screen opacity-90' alt='profile-picture' src={ProfilePic} />
 
     const content = "I am computer engineering student at Gazi University. Also I am member of board of Artifical Intelligent Gazi Student Chapter. As the Community of Gazi AI, we organize trainings, social activities, programs of seminar."+
-    "\nI have taken Object Oriented Programming (OOP) with Java, Data Structures, C# Visual Programming lectures from the University."+
-    "\nI am open to learning. I want to be improved myself about Datascience and Machinelearning. Therefore, I learnt python programming language to use it introduct to Datascience by myself. "+
-    "\nI am looking for internship from a company which provide to improve myself about Artifical Inteligent or Data Science."
+    "\n \nI have taken Object Oriented Programming (OOP) with Java, Data Structures, C# Visual Programming lectures from the University."+
+    "\n\nI am open to learning. I want to be improved myself about Datascience and Machinelearning. Therefore, I learnt python programming language to use it introduct to Datascience by myself. "+
+    "\n\nI am looking for internship from a company which provide to improve myself about Artifical Inteligent or Data Science."
     return (
         <div className="flex flex-row sm:flex-col md:flex-col h-full w-full justify-start overflow-y-scroll overflow-x-hidden scrollbar-hide md:gap-2 sm:gap-1 ">
             <div className='flex md:self-center sm:self-center items-center  ' >
